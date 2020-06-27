@@ -1,1 +1,1 @@
-## This is a RMarkdown file
+## This is a markdown file
